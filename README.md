@@ -48,6 +48,14 @@ Made for users who value **speed, simplicity, and reliability**.
 ---
 
 ## 📷 Screenshots
+<img width="421" height="428" alt="1" src="https://github.com/user-attachments/assets/83771f9b-18ee-48aa-bb85-3232fb20783a" />
+<img width="421" height="428" alt="2" src="https://github.com/user-attachments/assets/1bfb7cbe-4d56-4462-a938-d1963ea53d92" />
+<img width="416" height="426" alt="3" src="https://github.com/user-attachments/assets/7804f9e9-d9a1-4229-b3d2-76c1239dfbca" />
+<img width="416" height="426" alt="4" src="https://github.com/user-attachments/assets/2ddf5e8b-71c2-4df0-8d9a-5c435f2ec89c" />
+<img width="421" height="428" alt="5" src="https://github.com/user-attachments/assets/d334bc44-69d4-413b-aad7-d0c8867c4d0d" />
+<img width="421" height="428" alt="6" src="https://github.com/user-attachments/assets/5590b5cb-c762-4373-94c5-ae7dd4ea0848" />
+<img width="421" height="428" alt="7" src="https://github.com/user-attachments/assets/aa166734-5df3-4c48-98fd-0e2f9cfe70b6" />
+
 
 > *(Add your screenshots here in `/screenshots` folder and link them)*
 
