@@ -56,12 +56,6 @@ Made for users who value **speed, simplicity, and reliability**.
 <img width="421" height="428" alt="6" src="https://github.com/user-attachments/assets/5590b5cb-c762-4373-94c5-ae7dd4ea0848" />
 <img width="421" height="428" alt="7" src="https://github.com/user-attachments/assets/aa166734-5df3-4c48-98fd-0e2f9cfe70b6" />
 
-
-> *(Add your screenshots here in `/screenshots` folder and link them)*
-
-Example:
-![Main UI](screenshots/main_ui.png)
-
 ---
 
 ## 🧑‍💻 For Developers
