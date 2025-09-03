@@ -1,7 +1,7 @@
 # 📥 Download By Link
 
 **Download By Link** is a lightweight and efficient Windows application built with the **.NET Framework** in **C#**.  
-It allows you to download files directly from URLs with ease, supporting multiple downloads and providing real-time progress tracking.  
+Easily download videos from any platform, batch or single, using the simple and lightweight tool – Download By Link!
 
 Made for users who value **speed, simplicity, and reliability**.
 
@@ -9,13 +9,22 @@ Made for users who value **speed, simplicity, and reliability**.
 
 ## 🚀 Features
 
+- **Improved UI Alignment** – Cleaner and more consistent interface design.  
+- **Remove from Queue** – Delete items easily with a new button or the `Delete` key shortcut.  
+- **Audio/Video Format Selection** – Choose your preferred audio or video format before downloading.  
+- **Drag-and-Drop Reordering** – Reorder queued links with simple drag-and-drop support.  
+- **Enhanced Multi-Select** – Select and manage multiple links at once using the `Ctrl` key.  
 - **Direct Link Download** – Paste a URL and start downloading instantly.  
-- **Multiple Downloads** – Manage several files at once.  
-- **Real-Time Progress** – See download status, speed, and completion percentage.  
-- **Lightweight UI** – Clean and minimal interface for easy navigation.  
+- **Multiple Downloads** – Queue and manage several files at once with Add to Queue.  
+- **High-Quality Downloads** – Download the best available video from any social media  
+  *(only copyright-free content encouraged)*.  
+- **Real-Time Progress** – View live status, speed, total data downloaded, and ETA.  
+- **Pause/Resume** – Control your downloads anytime with pause and resume support.  
 - **Fast Performance** – Optimized for speed using `HttpClient`.  
-- **Error Handling** – Automatically retries on temporary failures.  
-- **Windows Integration** – Runs natively on Windows with minimal setup.
+- **Error Handling** – Automatically retries failed downloads.  
+- **Download Speed Controller** – Built-in control to manage bandwidth usage.  
+- **Rearrange Downloads** – Organize links or items in your queue with drag-and-drop.  
+
 
 ---
 
@@ -48,13 +57,12 @@ Made for users who value **speed, simplicity, and reliability**.
 ---
 
 ## 📷 Screenshots
-<img width="421" height="428" alt="1" src="https://github.com/user-attachments/assets/83771f9b-18ee-48aa-bb85-3232fb20783a" />
-<img width="421" height="428" alt="2" src="https://github.com/user-attachments/assets/1bfb7cbe-4d56-4462-a938-d1963ea53d92" />
-<img width="416" height="426" alt="3" src="https://github.com/user-attachments/assets/7804f9e9-d9a1-4229-b3d2-76c1239dfbca" />
-<img width="416" height="426" alt="4" src="https://github.com/user-attachments/assets/2ddf5e8b-71c2-4df0-8d9a-5c435f2ec89c" />
-<img width="421" height="428" alt="5" src="https://github.com/user-attachments/assets/d334bc44-69d4-413b-aad7-d0c8867c4d0d" />
-<img width="421" height="428" alt="6" src="https://github.com/user-attachments/assets/5590b5cb-c762-4373-94c5-ae7dd4ea0848" />
-<img width="421" height="428" alt="7" src="https://github.com/user-attachments/assets/aa166734-5df3-4c48-98fd-0e2f9cfe70b6" />
+<img width="600" height="700" alt="1" src="https://github.com/user-attachments/assets/6f338859-e6de-401d-935a-e7fb1e53d4e5" />
+<img width="600" height="700" alt="2" src="https://github.com/user-attachments/assets/0599ad88-089f-4276-a4c3-b9da09fdaf72" />
+<img width="600" height="700" alt="3" src="https://github.com/user-attachments/assets/8e511237-02e0-47c9-b536-b52d0fdff77f" />
+<img width="600" height="700" alt="4" src="https://github.com/user-attachments/assets/37549fed-bfb9-4701-bbfb-14f0db2ae87a" />
+<img width="600" height="700" alt="5" src="https://github.com/user-attachments/assets/c792a926-0f43-4412-95c0-4d7fc417f755" />
+
 
 ---
 
