@@ -2,7 +2,7 @@
 
 
 
-<img width="300" height="50" alt="full" src="https://github.com/user-attachments/assets/bf3658b4-93c3-4cb0-af65-6d2878bc0272" />
+# <img width="300" height="50" alt="full" src="https://github.com/user-attachments/assets/bf3658b4-93c3-4cb0-af65-6d2878bc0272" />
 
 **Download By Link** is a lightweight and efficient Windows application built with the **.NET Framework** in **C#**.  
 Easily download videos from any platform, batch or single, using the simple and lightweight tool – Download By Link!
