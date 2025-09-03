@@ -1,7 +1,8 @@
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/f82d8715-b89a-4a07-bd8d-3c7cf47951f1" alt="Download By Link" width="50" height="50" />
+  <img src="https://github.com/user-attachments/assets/f82d8715-b89a-4ad7-bd8d-3c7cf47951f1" alt="Download By Link" width="50" height="50" style="vertical-align: middle;" />
   Download By Link
 </h1>
+
 
 
 **Download By Link** is a lightweight and efficient Windows application built with the **.NET Framework** in **C#**.  
